@@ -15,4 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajputishwar/leetcode-solution/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
