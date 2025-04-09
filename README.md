@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
+| [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
+| [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -31,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
