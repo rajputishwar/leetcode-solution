@@ -45,8 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/rajputishwar/leetcode-solution/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/rajputishwar/leetcode-solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
 | [0907-koko-eating-bananas](https://github.com/rajputishwar/leetcode-solution/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/rajputishwar/leetcode-solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
