@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rajputishwar/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rajputishwar/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0009-palindrome-number) |
+| [2032-largest-odd-number-in-string](https://github.com/rajputishwar/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/rajputishwar/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/rajputishwar/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/rajputishwar/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
