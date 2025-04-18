@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rajputishwar/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rajputishwar/leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
