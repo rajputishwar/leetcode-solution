@@ -5,11 +5,11 @@ class Solution {
     return false;
  }
 
- int freq[] = new int[26];
+ int freq[] = new int[256];
 
  for(int i = 0;i<s.length();i++){
-    freq[s.charAt(i)-'a']++;
-    freq[t.charAt(i)-'a']--;
+    freq[s.charAt(i)-0]++;
+    freq[t.charAt(i)-0]--;
  }
 
  for(int i = 0;i<freq.length;i++){
