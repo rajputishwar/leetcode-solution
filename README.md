@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/rajputishwar/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rajputishwar/leetcode-solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/rajputishwar/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/rajputishwar/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rajputishwar/leetcode-solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
