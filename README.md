@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajputishwar/leetcode-solution/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/rajputishwar/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajputishwar/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rajputishwar/leetcode-solution/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/rajputishwar/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/rajputishwar/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/rajputishwar/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/rajputishwar/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
