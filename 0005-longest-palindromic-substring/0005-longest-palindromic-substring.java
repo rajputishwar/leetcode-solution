@@ -4,8 +4,8 @@ class Solution {
     public boolean ispalindrome(String s,int i,int j){
        
         while(i<j){
-             int c1 = s.charAt(i);
-            int c2 = s.charAt(j);
+             char c1 = s.charAt(i);
+            char c2 = s.charAt(j);
 
             if(c1!=c2){
                 return false;
