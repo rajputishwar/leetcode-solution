@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rajputishwar/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/rajputishwar/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rajputishwar/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rajputishwar/leetcode-solution/tree/master/0050-powx-n) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/rajputishwar/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajputishwar/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/rajputishwar/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajputishwar/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/rajputishwar/leetcode-solution/tree/master/0205-isomorphic-strings) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rajputishwar/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/rajputishwar/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajputishwar/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/rajputishwar/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
