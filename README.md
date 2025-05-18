@@ -145,14 +145,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/rajputishwar/leetcode-solution/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/rajputishwar/leetcode-solution/tree/master/0563-binary-tree-tilt) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/rajputishwar/leetcode-solution/tree/master/0563-binary-tree-tilt) |
 ## Backtracking
 |  |
 | ------- |
