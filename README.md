@@ -144,16 +144,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rajputishwar/leetcode-solution/tree/master/0563-binary-tree-tilt) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rajputishwar/leetcode-solution/tree/master/0563-binary-tree-tilt) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0100-same-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rajputishwar/leetcode-solution/tree/master/0563-binary-tree-tilt) |
 ## Backtracking
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/rajputishwar/leetcode-solution/tree/master/0046-permutations) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0357-count-numbers-with-unique-digits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
