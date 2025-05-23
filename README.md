@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rajputishwar/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/rajputishwar/leetcode-solution/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/rajputishwar/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/rajputishwar/leetcode-solution/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/rajputishwar/leetcode-solution/tree/master/0907-koko-eating-bananas) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rajputishwar/leetcode-solution/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/rajputishwar/leetcode-solution/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0357-count-numbers-with-unique-digits) |
 ## Breadth-First Search
 |  |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0783-search-in-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rajputishwar/leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
