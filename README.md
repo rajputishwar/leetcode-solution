@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajputishwar/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/rajputishwar/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/rajputishwar/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rajputishwar/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/rajputishwar/leetcode-solution/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/rajputishwar/leetcode-solution/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/rajputishwar/leetcode-solution/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/rajputishwar/leetcode-solution/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/rajputishwar/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
 ## Monotonic Stack
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rajputishwar/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 ## Prefix Sum
 |  |
 | ------- |
