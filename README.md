@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rajputishwar/leetcode-solution/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/rajputishwar/leetcode-solution/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rajputishwar/leetcode-solution/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/rajputishwar/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rajputishwar/leetcode-solution/tree/master/0078-subsets) |
+| [0135-candy](https://github.com/rajputishwar/leetcode-solution/tree/master/0135-candy) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/rajputishwar/leetcode-solution/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
