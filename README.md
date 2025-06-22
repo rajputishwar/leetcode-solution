@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rajputishwar/leetcode-solution/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/rajputishwar/leetcode-solution/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/rajputishwar/leetcode-solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/rajputishwar/leetcode-solution/tree/master/0322-coin-change) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rajputishwar/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rajputishwar/leetcode-solution/tree/master/0563-binary-tree-tilt) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/rajputishwar/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rajputishwar/leetcode-solution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/rajputishwar/leetcode-solution/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/rajputishwar/leetcode-solution/tree/master/0617-merge-two-binary-trees) |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajputishwar/leetcode-solution/tree/master/0070-climbing-stairs) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
