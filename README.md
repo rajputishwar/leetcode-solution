@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/rajputishwar/leetcode-solution/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/rajputishwar/leetcode-solution/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/rajputishwar/leetcode-solution/tree/master/0684-redundant-connection) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/rajputishwar/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/rajputishwar/leetcode-solution/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/rajputishwar/leetcode-solution/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/rajputishwar/leetcode-solution/tree/master/0684-redundant-connection) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -248,4 +250,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/rajputishwar/leetcode-solution/tree/master/0684-redundant-connection) |
+## Graph
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/rajputishwar/leetcode-solution/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
