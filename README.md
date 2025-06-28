@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/rajputishwar/leetcode-solution/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajputishwar/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/rajputishwar/leetcode-solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0304-range-sum-query-2d-immutable) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -261,4 +264,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
