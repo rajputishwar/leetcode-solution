@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/rajputishwar/leetcode-solution/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/rajputishwar/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/rajputishwar/leetcode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/rajputishwar/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rajputishwar/leetcode-solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajputishwar/leetcode-solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/rajputishwar/leetcode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/rajputishwar/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rajputishwar/leetcode-solution/tree/master/0455-assign-cookies) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/rajputishwar/leetcode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
