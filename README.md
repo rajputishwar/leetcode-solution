@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajputishwar/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/rajputishwar/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajputishwar/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0402-remove-k-digits) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajputishwar/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/rajputishwar/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/rajputishwar/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/rajputishwar/leetcode-solution/tree/master/0455-assign-cookies) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rajputishwar/leetcode-solution/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/rajputishwar/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajputishwar/leetcode-solution/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/rajputishwar/leetcode-solution/tree/master/0055-jump-game) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajputishwar/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/rajputishwar/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rajputishwar/leetcode-solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rajputishwar/leetcode-solution/tree/master/0070-climbing-stairs) |
