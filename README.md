@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rajputishwar/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rajputishwar/leetcode-solution/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/rajputishwar/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajputishwar/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/rajputishwar/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajputishwar/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rajputishwar/leetcode-solution/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/rajputishwar/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajputishwar/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rajputishwar/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0213-house-robber-ii) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0304-range-sum-query-2d-immutable) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rajputishwar/leetcode-solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
