@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rajputishwar/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/rajputishwar/leetcode-solution/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/rajputishwar/leetcode-solution/tree/master/0907-koko-eating-bananas) |
+| [0967-minimum-falling-path-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rajputishwar/leetcode-solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajputishwar/leetcode-solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/rajputishwar/leetcode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
+| [0967-minimum-falling-path-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0304-range-sum-query-2d-immutable) |
+| [0967-minimum-falling-path-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
