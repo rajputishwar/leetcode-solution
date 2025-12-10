@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rajputishwar/leetcode-solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rajputishwar/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajputishwar/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/rajputishwar/leetcode-solution/tree/master/0371-sum-of-two-integers) |
 | [2032-largest-odd-number-in-string](https://github.com/rajputishwar/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/rajputishwar/leetcode-solution/tree/master/0322-coin-change) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rajputishwar/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/rajputishwar/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/rajputishwar/leetcode-solution/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rajputishwar/leetcode-solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rajputishwar/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/rajputishwar/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajputishwar/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rajputishwar/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/rajputishwar/leetcode-solution/tree/master/0560-subarray-sum-equals-k) |
 ## String Matching
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/rajputishwar/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/rajputishwar/leetcode-solution/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/rajputishwar/leetcode-solution/tree/master/0455-assign-cookies) |
@@ -278,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rajputishwar/leetcode-solution/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/rajputishwar/leetcode-solution/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rajputishwar/leetcode-solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rajputishwar/leetcode-solution/tree/master/0371-sum-of-two-integers) |
 ## Memoization
