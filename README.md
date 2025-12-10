@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rajputishwar/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/rajputishwar/leetcode-solution/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/rajputishwar/leetcode-solution/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0416-partition-equal-subset-sum) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rajputishwar/leetcode-solution/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/rajputishwar/leetcode-solution/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/rajputishwar/leetcode-solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rajputishwar/leetcode-solution/tree/master/0371-sum-of-two-integers) |
 ## Memoization
 |  |
