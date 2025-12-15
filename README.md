@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/rajputishwar/leetcode-solution/tree/master/0371-sum-of-two-integers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajputishwar/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/rajputishwar/leetcode-solution/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0967-minimum-falling-path-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/rajputishwar/leetcode-solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/rajputishwar/leetcode-solution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajputishwar/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/rajputishwar/leetcode-solution/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Binary Search
 |  |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajputishwar/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajputishwar/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rajputishwar/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
