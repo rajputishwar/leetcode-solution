@@ -9,7 +9,9 @@ class Solution {
         int minlen = Integer.MAX_VALUE;
         int hash[] = new int[256];
 
-           if (m > n) return "";
+           if(m > n){
+            return "";
+           }
 
         Arrays.fill(hash,0);
 
