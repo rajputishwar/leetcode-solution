@@ -36,7 +36,7 @@ class Solution {
      char c = 'a';
         for(int i : freq){
             sb.append(c);
-            sb.append(freq[c-'a']);
+            sb.append(i);
             c++;
         }
 
