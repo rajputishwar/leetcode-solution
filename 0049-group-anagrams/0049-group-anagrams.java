@@ -32,7 +32,7 @@ class Solution {
         for(char c:str.toCharArray()){
             freq[c-'a']++;
         } 
-     StringBuilder sb = new StringBuilder(" ");
+     StringBuilder sb = new StringBuilder();
      char c = 'a';
         for(int i : freq){
             sb.append(c);
