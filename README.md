@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rajputishwar/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/rajputishwar/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rajputishwar/leetcode-solution/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/rajputishwar/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rajputishwar/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rajputishwar/leetcode-solution/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/rajputishwar/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajputishwar/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajputishwar/leetcode-solution/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/rajputishwar/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/rajputishwar/leetcode-solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rajputishwar/leetcode-solution/tree/master/0057-insert-interval) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajputishwar/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rajputishwar/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/rajputishwar/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rajputishwar/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/rajputishwar/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajputishwar/leetcode-solution/tree/master/0242-valid-anagram) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rajputishwar/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/rajputishwar/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
