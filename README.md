@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rajputishwar/leetcode-solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/rajputishwar/leetcode-solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rajputishwar/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/rajputishwar/leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajputishwar/leetcode-solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/rajputishwar/leetcode-solution/tree/master/0371-sum-of-two-integers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rajputishwar/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/rajputishwar/leetcode-solution/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/rajputishwar/leetcode-solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rajputishwar/leetcode-solution/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rajputishwar/leetcode-solution/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/rajputishwar/leetcode-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rajputishwar/leetcode-solution/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/rajputishwar/leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/rajputishwar/leetcode-solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/rajputishwar/leetcode-solution/tree/master/0371-sum-of-two-integers) |
