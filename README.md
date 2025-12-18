@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rajputishwar/leetcode-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/rajputishwar/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/rajputishwar/leetcode-solution/tree/master/0303-range-sum-query-immutable) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rajputishwar/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rajputishwar/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/rajputishwar/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/rajputishwar/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajputishwar/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/rajputishwar/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/rajputishwar/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/rajputishwar/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajputishwar/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rajputishwar/leetcode-solution/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0435-non-overlapping-intervals) |
