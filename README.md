@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rajputishwar/leetcode-solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/rajputishwar/leetcode-solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rajputishwar/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajputishwar/leetcode-solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rajputishwar/leetcode-solution/tree/master/0057-insert-interval) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/rajputishwar/leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/rajputishwar/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/rajputishwar/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajputishwar/leetcode-solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rajputishwar/leetcode-solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0063-unique-paths-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajputishwar/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/rajputishwar/leetcode-solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rajputishwar/leetcode-solution/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
