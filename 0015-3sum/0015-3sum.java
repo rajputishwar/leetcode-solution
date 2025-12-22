@@ -1,27 +1,45 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-         Set<List<Integer>> ans = new HashSet<>();
-         Arrays.sort(nums);
-
-        for(int i = 0;i<nums.length;i++){
-            if(i > 0 && nums[i] == nums[i - 1]){
-                continue;
-            }
-            Set<Integer> hashset = new HashSet<>();
-
-            for(int j = i +1;j<nums.length;j++){
-                int third = -(nums[i]+nums[j]);
-
-                if(hashset.contains(third)){
-                    List<Integer> temp = Arrays.asList(nums[i],nums[j],third);
-                    Collections.sort(temp);
-                    ans.add(temp);
-                }
-
-                hashset.add(nums[j]);
-            }
+        List<List<Integer>> ans = new ArrayList<>();
+        int n = nums.length;
+        if(n < 3){
+            return ans;
         }
 
-        return new ArrayList<>(ans);
+         Arrays.sort(nums);
+
+        for (int i = 0; i < n - 2; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]){
+                continue;
+            }      
+         if (nums[i] > 0){ 
+            break;
+         }
+
+            int left = i + 1; 
+            int right = n - 1;
+
+            while (left < right) {
+                int sum = nums[i] + nums[left] + nums[right];
+
+                if (sum == 0) {
+                    ans.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    left++;
+                    right--;
+
+                    while (left < right && nums[left] == nums[left - 1]){
+                        left++;
+                    }
+                    while (left < right && nums[right] == nums[right + 1]){
+                        right--;
+                    }
+                }else if(sum < 0) {
+                    left++;
+                }else{
+                    right--;
+                }
+            }
+        }
+        return ans;
     }
 }
