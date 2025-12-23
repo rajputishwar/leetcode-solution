@@ -1,21 +1,21 @@
 class Solution {
     public boolean isPalindrome(int x) {
-
         if(x<0){
             return false;
         }
-     int rev = 0;
-     int n = x;
+        int n = x;
+        int rev = 0;
+        while(n!=0){
+            rev = rev*10 + (n%10);
+            n=n/10;
+        }
 
-     while(x>0){
-       rev=rev*10+x%10;
-       x/=10;
+        if(x==rev){
+            return true;
+        }
+
+
+        return false;
         
-     }
-    if(rev==n){
-        return true;
-    }
-
-    return false;
     }
 }
