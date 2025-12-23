@@ -10,12 +10,10 @@ class Solution {
             n=n/10;
         }
 
-        if(x==rev){
-            return true;
-        }
+       
 
 
-        return false;
+        return x==rev;
         
     }
 }
