@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/rajputishwar/leetcode-solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rajputishwar/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rajputishwar/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rajputishwar/leetcode-solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajputishwar/leetcode-solution/tree/master/0079-word-search) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rajputishwar/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rajputishwar/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/rajputishwar/leetcode-solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/rajputishwar/leetcode-solution/tree/master/0200-number-of-islands) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajputishwar/leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rajputishwar/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/rajputishwar/leetcode-solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rajputishwar/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/rajputishwar/leetcode-solution/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/rajputishwar/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/rajputishwar/leetcode-solution/tree/master/0205-isomorphic-strings) |
