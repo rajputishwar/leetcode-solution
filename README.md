@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rajputishwar/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/rajputishwar/leetcode-solution/tree/master/0874-backspace-string-compare) |
 ## Array
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rajputishwar/leetcode-solution/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/rajputishwar/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rajputishwar/leetcode-solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rajputishwar/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rajputishwar/leetcode-solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rajputishwar/leetcode-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/rajputishwar/leetcode-solution/tree/master/0057-insert-interval) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rajputishwar/leetcode-solution/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/rajputishwar/leetcode-solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rajputishwar/leetcode-solution/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rajputishwar/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
